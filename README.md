@@ -18,7 +18,7 @@ FEATURES:
 Backend: Node.js, Express.js, Database: MongoDB, Authentication: JWT (JSON Web Tokens), Testing: ThunderClient
 
 REPO 
-git clone https://github.com/yourusername/shoppyglobe-api.git
+git clone [ https://github.com/yourusername/shoppyglobe-api.git](https://github.com/sumit434/Shoppy_Globe-API)
 cd shoppyglobe-api
 
 SETUP
